@@ -1,0 +1,17 @@
+{
+  "ignition": {
+    "version": "3.6.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "groups": [
+          "wheel",
+          "sudo"
+        ],
+        "name": "core",
+        "passwordHash": "$y$j9T$H5OmZ96JhIot3GrB5A/nt1$/jNJQs72Ee4Lp37i6ADs7qPtHLfEpy2Um/2JXq9lfb0"
+      }
+    ]
+  }
+}
